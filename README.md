@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jiyoon-park97
-- 👀 I’m interested in Natural Langauge Processing 
+- 👀 I’m interested in Natural Langauge Processing , education AI, Clinical AI
 - 🌱 I’m currently learning machine learning, deep learning 
 - 📫 How to reach me jiyoonpark@gmail.com
 <!---
