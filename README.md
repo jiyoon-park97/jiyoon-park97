@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiyoon-park97
-- 👀 I’m interested in Natural Langauge Processing , education AI, Clinical AI
-- 🌱 I’m currently learning python, machine learning, deep learning 
+- 👀 I’m interested in Natural Langauge Processing , education AI
+- 🌱 I’m currently learning python, machine learning, deep learning, Flutter 
 - 📫 How to reach me pjy3065081@yonsei.ac.kr
 <!---
 jiyoon-park97/jiyoon-park97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
